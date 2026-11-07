@@ -1,0 +1,15 @@
+{
+  "name": "erenarpbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.0",
+    "telegraf": "^4.16.3",
+    "ws": "^8.18.0"
+  }
+}
