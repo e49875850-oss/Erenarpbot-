@@ -6,10 +6,10 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "axios": "^1.7.0",
+    "@polymarket/client": "^1.0.0",
+    "better-sqlite3": "^11.8.1",
     "dotenv": "^16.4.5",
-    "ethers": "^6.13.0",
-    "telegraf": "^4.16.3",
+    "grammy": "^1.30.0",
     "ws": "^8.18.0"
   }
 }
